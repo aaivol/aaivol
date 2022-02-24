@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @aaivol
 - 👀 I’m interested in html, css
 - 🌱 Student of BMSTU
-- 📫 How to reach me: ivaa1071@gmail.com
