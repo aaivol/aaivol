@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aaivol
-- 👀 I’m interested in html, css
+- 👀 I’m interested in designing apps & web-sites
 - 🌱 Student of BMSTU
